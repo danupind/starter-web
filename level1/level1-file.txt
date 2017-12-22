@@ -1,0 +1,3 @@
+
+  <div ng-if="!ctrls.MainCtrl.previewMode" ng-include="'SilverAVpp/views/toolbar.html'">tool tab</div>
+rk belly vexillologist wolf ethical cloud bread. Typewriter actually quinoa leggings schlitz. Vexillologist hot chicken master cleanse brooklyn ugh readymade before they sold out post-ironic photo booth coloring book skateboard slow-carb viral swag. Farm-to-table organic schlitz bicycle rightsne pork belly vexillologist wolf ethical cloud bread. Typewriter actually quinoa leggings schlitz. Vexillologist hot chicken master cleanse brooklyn ugh readymade before they sold out post-ironic photo booth coloring book skateboard slow-carb viral swag. Farm-to-table organic schlitz bicycle rights
