@@ -9,3 +9,5 @@ to learn git well
 this is simple project to deploy anywhere
 
 Sample website with plenty of files for demos
+
+2014 git.training
