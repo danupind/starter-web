@@ -13,4 +13,4 @@ Sample website with plenty of files for demos
 
 please fork this repo and then pull req for review
 
-2014 git.training
+2014 git.training. all rights reserved.
